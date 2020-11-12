@@ -3,3 +3,4 @@ Step 1:  Use pgAdmin to Create a database called Movie_Harless and table called 
 Step 2: Run the Juypiter Notebook File to clean the data
 Step 3: Do final cleaning in pgAdmin using queries in schema.sql
 Step 4: Run last line in Juypiter notebook to check that the dabase contains the final cleaned data. 
+Step 5: use app.py Flask to run all html and scripts
